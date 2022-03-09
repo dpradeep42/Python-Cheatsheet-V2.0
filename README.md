@@ -1,6 +1,6 @@
 Comprehensive Python Cheatsheet
 ===============================
-<sup>[Download text file](https://raw.githubusercontent.com/gto76/python-cheatsheet/main/README.md).</sup>
+<sup>[Download text file](https://raw.githubusercontent.com/dpradeep42/Python-Cheatsheet-V2.0/main/README.md).</sup>
 
 Contents
 --------
